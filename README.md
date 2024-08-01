@@ -1,2 +1,2 @@
 # parthesh-s-repo
-This is my first rpo
+This is my first repository
